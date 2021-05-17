@@ -5,3 +5,4 @@
 <h5> Deployed the code via Ansible !!! </h5>
 <h6> Test for automatic deploy !!! </h6>
 <h7> create only war file !!! </h7>
+<h8> deployed via docker container !!! </h8>
