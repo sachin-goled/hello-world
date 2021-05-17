@@ -7,3 +7,4 @@
 <h7> create only war file !!! </h7>
 <h8> deployed via docker container !!! </h8>
 <h9> test !!! </h9>
+<h10> Via Ansible and Docker Container !!! </h10>
