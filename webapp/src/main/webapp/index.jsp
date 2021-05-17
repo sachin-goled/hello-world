@@ -6,3 +6,4 @@
 <h6> Test for automatic deploy !!! </h6>
 <h7> create only war file !!! </h7>
 <h8> deployed via docker container !!! </h8>
+<h9> test !!! </h9>
